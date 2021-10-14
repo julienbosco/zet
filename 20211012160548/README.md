@@ -31,3 +31,5 @@ To restart specific VM:
 
 ## Fileshare
 Fileshare role didn't start right away. Check that resources like disk, network and IP address for this role are up before trying to bring it up.
+
+    #failovercluster #powershell #fc
