@@ -158,6 +158,11 @@ Now, there's two way to link and add necessary code to executable. First is dyna
 
 ### Dynamic
 
-### Dynamic
+By default, `gcc` will compile with dynamic libraries. `ldd` shows used libraries.
+
+### Static
+
+GCC can compile statically with flag `--static`.
+TODO: Check static compilation with `musl`. 
 
 
