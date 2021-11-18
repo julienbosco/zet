@@ -27,5 +27,14 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 ## What is Docker
 
+## Playing with containers
+
+    docker run -it ubuntu
+    docker container ls -a
+    docker run -it --rm ubuntu
+   
+## Mapping directory
+    Bind mount vs Volume
+    Bind are host folder linked to container folder
 
 
