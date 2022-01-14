@@ -4,6 +4,15 @@ See (https://buildroot.org)
 
 Building a Docker image (julienbosco/buildroot) as building image.
 
+## Optimization
+
+### Building toolchain
+
+See [section 6.1.3](https://buildroot.org/downloads/manual/manual.html#_cross_compilation_toolchain) for more details. Here is the config
+
+* Architecture: aarch64
+* Floating point
+
 ## Buildroot configuration
 
 For now, using template for pine64
